@@ -2,6 +2,7 @@
 
 Generated 2026-09-30 from subscriptions.csv (455 channels).
 
+
 ## surf (72)
 
 - Aaron Lynton (@aaronlynton)
@@ -77,7 +78,7 @@ Generated 2026-09-30 from subscriptions.csv (455 channels).
 - World Surf League (@wsl)
 - WSL Brasil (@wslbrasil)
 
-## kite (14)
+## sail-ish (15)
 
 - DUOTONE Kiteboarding (@duotonekiteboarding)
 - F-ONE (@foneculture)
@@ -93,6 +94,7 @@ Generated 2026-09-30 from subscriptions.csv (455 channels).
 - TWS Tenerife Windsurf Solution (@twswindsurf)
 - Windsurfing.TV (@windsurfingtv)
 - Wingfoil, Kitefoil & Kitesurf College (@kitesurfcollege)
+- Yourbestsail (@yourbestsail)
 
 ## software (68)
 
@@ -211,21 +213,21 @@ Generated 2026-09-30 from subscriptions.csv (455 channels).
 - LA NACION (@lanacion)
 - NOTICIAS OCULTAS X (@noticiasocultasx)
 - Oliver Ibáñez (@oliveribanez)
-- Tío Liberal
 - TiranosTembladTV (@tiranostembladtv)
 - Todo Noticias (@todonoticias)
+- Tío Liberal
 
 ## podscast (18)
 
-- BLENDER (@estoesblender)
 - Chase Hughes (@chasehughesofficial)
 - Danny Goler (@dannygoler)
 - Date un Vlog (@dateunvlog)
 - Dr. Carlos Jaramillo (@drcarlosjaramillo)
+- El Explicador Sitio Oficial (@elexplicadorsitiooficial)
 - El Robot de Platón (@elrobotdeplaton)
+- Hablando Huevadas (@hablandohuevadasoficial)
 - JOEPEDIA ( Fan Channel ) (@joepediaunofficial)
 - Lex Clips (@lexclips)
-- OLGA (@olgaenvivo_)
 - PowerfulJRE (@joerogan)
 - Radio Garka Oficial (@radiogarkaoficialsape)
 - Shawn Ryan Clips (@shawnryanclips)
@@ -235,6 +237,16 @@ Generated 2026-09-30 from subscriptions.csv (455 channels).
 - The Magnificent Others with Billy Corgan (@billycorgantmo)
 - The Why Files (@thewhyfiles)
 - Vorterix (@vorterixoficial)
+
+## podcast-ar (2)
+
+- BLENDER (@estoesblender)
+- OLGA (@olgaenvivo_)
+
+## learn (2)
+
+- Be Smart (@besmart)
+- MIT OpenCourseWare (@mitocw)
 
 ## cars (37)
 
@@ -401,7 +413,7 @@ Generated 2026-09-30 from subscriptions.csv (455 channels).
 - Olga Soby (@olgasoby)
 - SurajFineArts - Abstract ART (@surajfinearts)
 
-## tv - cine (24)
+## tv - cine (23)
 
 - ACM1PTV OFICIAL
 - Adult Swim (@adultswim)
@@ -413,7 +425,6 @@ Generated 2026-09-30 from subscriptions.csv (455 channels).
 - Gaspi (@gaspipd)
 - Google TV
 - Guille Aquino (@guilleaquino)
-- Hablando Huevadas (@hablandohuevadasoficial)
 - Peter Capusotto y sus Videos (@petercapusottotv)
 - Prestico (@prestico)
 - Roberto Moldavsky (@moldavskyroberto)
@@ -517,14 +528,13 @@ Generated 2026-09-30 from subscriptions.csv (455 channels).
 - Scotty Cranmer (@scottycranmer)
 - STRONG B M X (@strongbmx2)
 
-## otros (9)
+## sports (4)
 
-- Be Smart (@besmart)
 - Claro Sports (@clarosports)
 - DSports (@dsportsok)
-- El Explicador Sitio Oficial (@elexplicadorsitiooficial)
-- FRANZIS (@franzis)
-- MIT OpenCourseWare (@mitocw)
 - Nitro Circus (@nitrocircus)
 - Red Bull (@redbull)
-- Yourbestsail (@yourbestsail)
+
+## otros (1)
+
+- FRANZIS (@franzis)

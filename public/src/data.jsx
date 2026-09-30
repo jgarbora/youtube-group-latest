@@ -22,7 +22,9 @@ const CATEGORY_ICONS = {
   education:  'book',
   // Slugs produced by scripts/build-channels-json.ts from the user's categories
   surf:           'globe',
-  kite:           'globe',
+  'sail-ish':     'globe',
+  learn:          'book',
+  'podcast-ar':   'mic',
   ia:             'sparkle',
   simracing:      'gamepad',
   'call-of-duty': 'gamepad',

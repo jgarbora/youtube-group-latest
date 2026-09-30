@@ -24,6 +24,18 @@ const PER_CHANNEL = 10; // videos fetched per channel
 const ALL_LIMIT = 300; // videos kept in all.json
 const OUT = path.resolve("site");
 
+/**
+ * The repo and Actions logs are public. Error messages from the YouTube
+ * client are published in the JSON and printed to the log, so scrub the API
+ * key out of them defensively even though Google's messages don't normally
+ * include it.
+ */
+function redactKey(text: string): string {
+  return config.youtubeApiKey
+    ? text.split(config.youtubeApiKey).join("[REDACTED]")
+    : text;
+}
+
 function writeJson(rel: string, data: unknown) {
   const file = path.join(OUT, rel);
   fs.mkdirSync(path.dirname(file), { recursive: true });
@@ -46,6 +58,10 @@ async function main() {
 
   for (const category of config.categories) {
     const result = await getLatestVideos(category.channels, PER_CHANNEL);
+    result.errors = result.errors.map((e) => ({
+      ...e,
+      message: redactKey(e.message),
+    }));
     writeJson(`data/videos/${category.slug}.json`, { generatedAt, ...result });
     all.videos.push(...result.videos);
     all.errors.push(...result.errors);
@@ -68,6 +84,6 @@ async function main() {
 }
 
 main().catch((err) => {
-  console.error(err?.message ?? err);
+  console.error(redactKey(String(err?.message ?? err)));
   process.exit(1);
 });

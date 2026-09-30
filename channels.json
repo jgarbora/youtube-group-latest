@@ -79,8 +79,8 @@
       ]
     },
     {
-      "name": "kite",
-      "slug": "kite",
+      "name": "sail-ish",
+      "slug": "sail-ish",
       "channels": [
         "UC2AvhQhxmgRpM32IYE5qkOA",
         "UC2f6A_-YpOI69mL7-fs4DhQ",
@@ -92,6 +92,7 @@
         "UCPdZNIoucAelteFcdxxSFMw",
         "UCbBJpC3iqz1Pv_ghkMUXMmg",
         "UCcVH6sVIOOEgvKadeMwBY-g",
+        "UCciYTtxSz41uE6BhVDb6Rbg",
         "UCgaSOa5qTpPIq-hR8vRRy5A",
         "UCln8MEeAZCNDXBQPq_0THUw",
         "UClywNttOGGvsIF23vwKWy2A",
@@ -239,23 +240,39 @@
       "slug": "podscast",
       "channels": [
         "UC1vUksRWfEfd6V4pPDIQ0jw",
-        "UC6pJGaMdx5Ter_8zYbLoRgA",
-        "UC7mJ2EDXFomeDIRFu5FtEbA",
         "UCDKVD-3mE4ofD7NzlDJ8HWA",
         "UCENdrrK5sWM-RV5nTLwBNXw",
         "UCIFk2uvCNcEmZ77g0ESKLcQ",
         "UCJIfeSCssxSC_Dhc5s7woww",
         "UCLZc32yrTEMxH1ZO-6fKOzA",
+        "UCN_zHSNEjWkLz0U-x1gx_Ag",
         "UCQX_MZRCaluNKxkywkLEgfA",
         "UCUBj_5pwQZaoXfBrEQQbADw",
         "UCVCq-J5PKgpFxpaQZVGdPFA",
         "UCaVPhFg-Ax873wvhbNitsrQ",
+        "UCba1vMvOHWlMddLARS382Zw",
         "UCnjgxChqYYnyoqO4k_Q1d6Q",
         "UCvCTWHCbBC0b9UIeLeNs8ug",
         "UCvXeTKjyRrg88woCAa8NOFA",
         "UCvfquOBFwJT11953JVj2D3A",
         "UCykTiaMobl2EWW28zmjcznQ",
         "UCzQUP1qoWDoEbmsQxvdjxgQ"
+      ]
+    },
+    {
+      "name": "podcast-ar",
+      "slug": "podcast-ar",
+      "channels": [
+        "UC6pJGaMdx5Ter_8zYbLoRgA",
+        "UC7mJ2EDXFomeDIRFu5FtEbA"
+      ]
+    },
+    {
+      "name": "learn",
+      "slug": "learn",
+      "channels": [
+        "UCEBb1b_L6zDS3xTUrIALZOw",
+        "UCH4BNI0-FOK2dMXoFtViWHw"
       ]
     },
     {
@@ -462,7 +479,6 @@
         "UCTHwm6bbIULuDIpoWGc8GpA",
         "UCUjrDJokSX8JavRwy5iUOkA",
         "UCXInrtBw25kOByjq-hfWf3w",
-        "UCba1vMvOHWlMddLARS382Zw",
         "UCduf5_5FnIptzDMBJ75ttFQ",
         "UCekZraXDMtB3WF_aHl4cWbw",
         "UCfLTaP7dww1M8Vr5DKzzRZA",
@@ -585,18 +601,20 @@
       ]
     },
     {
+      "name": "sports",
+      "slug": "sports",
+      "channels": [
+        "UC9UGYdMSKasjY0mhU1lG4lQ",
+        "UCWSsHdxrwVLlOSdPJ44y9sw",
+        "UCblfuW_4rakIf2h6aqANefA",
+        "UCqfCJBfrFSO4tZM1LNZTBFQ"
+      ]
+    },
+    {
       "name": "otros",
       "slug": "otros",
       "channels": [
-        "UC9UGYdMSKasjY0mhU1lG4lQ",
-        "UCBB5qSIqL2O25flxAOvIwrA",
-        "UCEBb1b_L6zDS3xTUrIALZOw",
-        "UCH4BNI0-FOK2dMXoFtViWHw",
-        "UCN_zHSNEjWkLz0U-x1gx_Ag",
-        "UCWSsHdxrwVLlOSdPJ44y9sw",
-        "UCblfuW_4rakIf2h6aqANefA",
-        "UCciYTtxSz41uE6BhVDb6Rbg",
-        "UCqfCJBfrFSO4tZM1LNZTBFQ"
+        "UCBB5qSIqL2O25flxAOvIwrA"
       ]
     }
   ]
