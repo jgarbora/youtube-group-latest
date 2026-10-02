@@ -250,7 +250,6 @@
         "UCUBj_5pwQZaoXfBrEQQbADw",
         "UCVCq-J5PKgpFxpaQZVGdPFA",
         "UCaVPhFg-Ax873wvhbNitsrQ",
-        "UCba1vMvOHWlMddLARS382Zw",
         "UCnjgxChqYYnyoqO4k_Q1d6Q",
         "UCvCTWHCbBC0b9UIeLeNs8ug",
         "UCvXeTKjyRrg88woCAa8NOFA",
@@ -264,7 +263,16 @@
       "slug": "podcast-ar",
       "channels": [
         "UC6pJGaMdx5Ter_8zYbLoRgA",
-        "UC7mJ2EDXFomeDIRFu5FtEbA"
+        "UC7mJ2EDXFomeDIRFu5FtEbA",
+        "UCqxBNDHmEZgqU1B61oc-QhQ"
+      ]
+    },
+    {
+      "name": "humor",
+      "slug": "humor",
+      "channels": [
+        "UCUjrDJokSX8JavRwy5iUOkA",
+        "UCba1vMvOHWlMddLARS382Zw"
       ]
     },
     {
@@ -306,7 +314,6 @@
         "UCefl-5pmhZmljwZTE2KrcdA",
         "UChiwLDIBJrV5SxqdixMHmQA",
         "UCjOl2AUblVmg2rA_cRgZkFg",
-        "UClTDogLGNB4vl9b9mGe0XRA",
         "UClqhvGmHcvWL9w3R48t9QXQ",
         "UCsqjHFMB_JYTaEnf_vmTNqg",
         "UCtTN3cQJNgP23XKj5AS-RfA",
@@ -334,6 +341,7 @@
         "UCZzQ9gNE0vjjlZVHn95QRuQ",
         "UCcLYOTz3ct6_lk9iLToxxAw",
         "UCiJEbgvWU-qN9L_qat3VQpQ",
+        "UClTDogLGNB4vl9b9mGe0XRA",
         "UClsXGNclzg8AU58vQQFlTdw",
         "UCnR5jPCzRBFyOiLzD5Sq5dA",
         "UCoV2Qw0sL-ApYQ62k-88K1w",
@@ -477,7 +485,6 @@
         "UCQnTknlMWttN9GbY-n6JYuw",
         "UCSzr6YCdvxIQ3lndAdS7Eag",
         "UCTHwm6bbIULuDIpoWGc8GpA",
-        "UCUjrDJokSX8JavRwy5iUOkA",
         "UCXInrtBw25kOByjq-hfWf3w",
         "UCduf5_5FnIptzDMBJ75ttFQ",
         "UCekZraXDMtB3WF_aHl4cWbw",
@@ -485,7 +492,6 @@
         "UCfknJn7W2MRC25I0b5nHdDw",
         "UCgPClNr5VSYC3syrDUIlzLw",
         "UCop-oxKVfX6ErQIct2FRKhg",
-        "UCqxBNDHmEZgqU1B61oc-QhQ",
         "UCugd5Q3S9kwkn0B2WxtHj9w",
         "UCvkdpLN1agXoiRWEWTtXqjw",
         "UCw7Bz6EHxlnOoBUBlJZCWCw",
