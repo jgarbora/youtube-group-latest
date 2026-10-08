@@ -119,7 +119,6 @@
         "UC8u3MrdT1BUySJ1U0eWH4VQ",
         "UCAg-s6wxgQRmEBohfuWTEXA",
         "UCAvGvvEemkeX8hurdPXr7hA",
-        "UCCBVCTuk6uJrN3iFV_3vurg",
         "UCEeuul0q7C8Zs5C8rc4REFQ",
         "UCF8luR7ORJTCwSNA9yZksCw",
         "UCFYG383lawh9Hrs_DEKTtdg",
@@ -139,7 +138,6 @@
         "UCQvdU25Eqk3YS9-QnILhKKQ",
         "UCSf6S_PAhXsqGMTPDiKgdRg",
         "UCT-nPlVzJI-ccQXlxjSvJmw",
-        "UCTdw38Cw6jcm0atBPA39a0Q",
         "UCUlQ5VoIzE_kFbYjzUwHTKA",
         "UCVeW9qkBjo3zosnqUbG7CFw",
         "UCWh3G9LZmZ3q_xWOyPpn8ag",
@@ -164,13 +162,21 @@
         "UCmTK4CrCaDXpuZ-Evl5-b5Q",
         "UCmZz-Gj3caLLzEWBtbYUXaA",
         "UCo-yQhAKie0WCV7-E-z9Mog",
-        "UCs_tLP3AiwYKwdUHpltJPuA",
         "UCsvqVGtbbyHaMoevxPAq9Fg",
         "UCxQKHvKbmSzGMvUrVtJYnUA",
         "UCxw47aS8YVz-lIGc7ld_d7g",
         "UCy6gt7XvGJ3AGpSon2pS4nQ",
         "UCyU5wkjgQYGRB0hIHMwm2Sg",
         "UCzrRfXB0rQJUVpt-Q45PcuA"
+      ]
+    },
+    {
+      "name": "conferences",
+      "slug": "conferences",
+      "channels": [
+        "UCCBVCTuk6uJrN3iFV_3vurg",
+        "UCTdw38Cw6jcm0atBPA39a0Q",
+        "UCs_tLP3AiwYKwdUHpltJPuA"
       ]
     },
     {
